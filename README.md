@@ -39,9 +39,9 @@ evem6983@colorado.edu
 
 **Mitigation Strategy for Above Risks**  
 
-6. Clear direction and agreement on included features.  
-7. Sprints have clear objectives and deadlines are met.  
-8. Research and sharing knowledge in team meetings.  
-9. Adapting to the plan as needed to ensure quality over quantity.  
+1. Clear direction and agreement on included features.  
+2. Sprints have clear objectives and deadlines are met.  
+3. Research and sharing knowledge in team meetings.  
+4. Adapting to the plan as needed to ensure quality over quantity.  
 
 
