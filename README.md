@@ -28,3 +28,20 @@ Evan Embry <br>
 evanembry <br>
 evem6983@colorado.edu
 
+
+**Risks to Project Completion**  
+
+1. A large number of possible features could lead to snowballing task numbers.  
+2. Limited timeframe, needs to be completed by the end of the semester.  
+3. Lack of previous knowledge, first time building an inventory management system.  
+4. Potential time constraints, jobs, other classes.  
+5. Lack of experience in SQL implementation.  
+
+**Mitigation Strategy for Above Risks**  
+
+6. Clear direction and agreement on included features.  
+7. Sprints have clear objectives and deadlines are met.  
+8. Research and sharing knowledge in team meetings.  
+9. Adapting to the plan as needed to ensure quality over quantity.  
+
+
